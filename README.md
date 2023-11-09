@@ -1,8 +1,8 @@
 # E-commerce empresa x
 
-Este é um e-commerce para a empresa X, feito em PHP e MySQL.
+Este é um **e-commerce** para a empresa X, feito em _PHP e MySQL_.
 Repositório utilizado para verificar as ferramentas do github "curso"
 
 ## Funcionalidade:
 
-Checkout, Tela de produto, Catálogo, Home com Banner
+_Checkout, Tela de produto, **Catálogo**, Home com Banner_
