@@ -30,7 +30,7 @@ _Checkout, Tela de produto, **Catálogo**, Home com Banner_
 
 #### Imagem externa
 
-![Logo dp PHP](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.freepnglogos.com%2Fuploads%2Fphp-logo-png%2Fphp-logo-png-transparent-images-download-clip-6.png&tbnid=cmkT0ZxBP1PDqM&vet=12ahUKEwiaw4HvsbeCAxVyqpUCHYotD6kQMygQegQIARBn..i&imgrefurl=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Fphp-logo&docid=B8k4piRAXxxFMM&w=400&h=370&q=logo%20php%20png&ved=2ahUKEwiaw4HvsbeCAxVyqpUCHYotD6kQMygQegQIARBn)
+![Logo dp PHP](![Alt text](https://www.iconfinder.com/icons/4375039/logo_php_icon)
  
 
 
