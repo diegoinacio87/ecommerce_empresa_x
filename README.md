@@ -35,6 +35,7 @@ _Checkout, Tela de produto, **Catálogo**, Home com Banner_
 ## Links interessantes:
 
 [Google](https://www.google.com)
+[Linkedin Diego Rodolfo Inácio](https://www.linkedin.com/in/diego-rodolfo-in%C3%A1cio-0769641b3/)
  
 
 
