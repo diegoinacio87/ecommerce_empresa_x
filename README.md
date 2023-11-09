@@ -6,3 +6,13 @@ Repositório utilizado para verificar as ferramentas do github "curso"
 ## Funcionalidade:
 
 _Checkout, Tela de produto, **Catálogo**, Home com Banner_
+
+### Linguagens do projeto
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
+
+
