@@ -30,7 +30,7 @@ _Checkout, Tela de produto, **Catálogo**, Home com Banner_
 
 #### Imagem externa
 
-![Logo dp PHP](https://www.iconfinder.com/icons/4375039/logo_php_icon)
+![Logo dp PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png)
  
 
 
