@@ -37,6 +37,14 @@ _Checkout, Tela de produto, **Catálogo**, Home com Banner_
 [Google](https://www.google.com)
 
 [Linkedin Diego Rodolfo Inácio](https://www.linkedin.com/in/diego-rodolfo-in%C3%A1cio-0769641b3/)
+
+## Código da função soma
+
+```javascript
+function soma(a, b) {
+    return a + b;
+}
+ ```
  
 
 
