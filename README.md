@@ -24,10 +24,6 @@ _Checkout, Tela de produto, **Catálogo**, Home com Banner_
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
 
-#### Imagem local
-
-![Logo do Python](img/python.png)
-
 #### Imagem externa
 
 ![Logo dp PHP](https://w7.pngwing.com/pngs/866/528/png-transparent-php-web-development-perl-logo-php-logo-cdr-text-trademark-thumbnail.png)
@@ -37,14 +33,6 @@ _Checkout, Tela de produto, **Catálogo**, Home com Banner_
 [Google](https://www.google.com)
 
 [Linkedin Diego Rodolfo Inácio](https://www.linkedin.com/in/diego-rodolfo-in%C3%A1cio-0769641b3/)
-
-## Código da função soma
-
-```javascript
-function soma(a, b) {
-    return a + b;
-}
- ```
 
  ## Lista de tarefas a fazer:
 
