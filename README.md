@@ -26,7 +26,7 @@ _Checkout, Tela de produto, **Catálogo**, Home com Banner_
 
 #### Imagem externa
 
-![Logo dp PHP]([https://dkrn4sk0rn31v.cloudfront.net/uploads/2019/02/08152320/melhorar-perfil-desenvolvedor.png](https://img.freepik.com/vetores-premium/programador-coder-concentrado-no-projeto-de-trabalho-desenvolvendo-tecnologias-de-programacao-e-codificacao_569013-338.jpg))
+![Logo dp PHP]([ttps://dkrn4sk0rn31v.cloudfront.net/uploads/2019/02/08152320/melhorar-perfil-desenvolvedor.png](https://img.freepik.com/vetores-premium/programador-coder-concentrado-no-projeto-de-trabalho-desenvolvendo-tecnologias-de-programacao-e-codificacao_569013-338.jpg)
 
 ## Links interessantes:
 
