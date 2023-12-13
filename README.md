@@ -26,7 +26,7 @@ _Checkout, Tela de produto, **Catálogo**, Home com Banner_
 
 #### Imagem externa
 
-![Logo dp PHP]([https://w7.pngwing.com/pngs/866/528/png-transparent-php-web-development-perl-logo-php-logo-cdr-text-trademark-thumbnail.png](https://img.freepik.com/vetores-gratis/desenvolvimento-web-engenharia-de-programador-e-site-de-codificacao-em-telas-de-interface-de-realidade-aumentada-desenvolvedor-de-projeto-engenheiro-de-programacao-de-software-ou-design-de-aplicativo-cartoon-illustration_107791-3863.jpg?size=626&ext=jpg&ga=GA1.1.386372595.1698537600&semt=ais)https://img.freepik.com/vetores-gratis/desenvolvimento-web-engenharia-de-programador-e-site-de-codificacao-em-telas-de-interface-de-realidade-aumentada-desenvolvedor-de-projeto-engenheiro-de-programacao-de-software-ou-design-de-aplicativo-cartoon-illustration_107791-3863.jpg?size=626&ext=jpg&ga=GA1.1.386372595.1698537600&semt=ais)
+![Logo dp PHP](https://dkrn4sk0rn31v.cloudfront.net/uploads/2019/02/08152320/melhorar-perfil-desenvolvedor.png)
 
 ## Links interessantes:
 
